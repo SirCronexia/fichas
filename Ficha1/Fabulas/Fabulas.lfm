@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<form name="frmFabulas" formType="sheetTemplate" dataType="Alterar.DataType.Fabulas" title="Fabulas (PDF)" align="client" theme="light">
+    <import file="1.lfm"/>
+</form>
